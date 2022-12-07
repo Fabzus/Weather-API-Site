@@ -20,7 +20,7 @@ I made this very simple weather porject app that calls an API
 
 ## Links
 
-Live ![github](https://fabzus.github.io/Weather-API-Site/)
+- Live Site URL: [github](https://fabzus.github.io/Weather-API-Site/)
 
 ## My process
 
