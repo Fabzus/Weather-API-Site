@@ -15,7 +15,12 @@ I made this very simple weather porject app that calls an API
 
 ### Screenshot
 
-![result](todolist.PNG)
+![result](App.PNG)
+
+
+## Links
+
+Live ![github](https://fabzus.github.io/Weather-API-Site/)
 
 ## My process
 
